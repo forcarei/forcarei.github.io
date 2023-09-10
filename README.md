@@ -1,47 +1,40 @@
-<header>
+<!DOCTYPE html>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+<HTML lang="es">
+<HEAD>
+	
+	<meta charset="UTF-8">
+	<TITLE> página de pruebas </TITLE>
 
-# GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+</HEAD>
+<BODY>
+	
+	<P> <b>Lorem ipsum en negrita</b> dolor sit amet, consectetur adipiscing elit <i>en cursiva</i> consectetur adipiscing elit. Phasellus vestibulum ac nulla ac iaculis. Mauris efficitur vitae purus eget posuere. Mauris in nibh bibendum, porta erat ut, finibus sem. In ex lorem, elementum sit amet elementum in, scelerisque ut dolor. Etiam pellentesque sollicitudin dolor quis fermentum. Aliquam erat volutpat.                                            Suspendisse fringilla tortor                         vestibulum, faucibus tellus sit                          amet, rutrum mi. Nunc interdum, lacus vel porta laoreet, diam lacus rhoncus nisi, nec suscipit ante justo eget leo. Phasellus sollicitudin nisi enim, ac pellentesque velit semper a. Nulla quis aliquam felis, non pretium turpis. Nam eleifend                                                      urna purus, ac molestie dolor aliquam a. Vestibulum in lacus et ex facilisis mollis. Sed nec dui sed tortor bibendum bibendum ut lobortis tellus. Vivamus mauris diam, tristique et orci facilisis, faucibus elementum metus. Aliquam vitae lobortis nisl. </P>
+	<P> <b>Lorem ipsum en negrita</b> dolor sit amet, consectetur adipiscing elit consectetur adipiscing elit <i>en cursiva</i>. Phasellus vestibulum ac nulla ac iaculis. Mauris efficitur vitae purus eget posuere. Mauris in nibh bibendum, porta erat ut, finibus sem. In ex lorem, elementum sit amet elementum in, scelerisque ut dolor. Etiam pellentesque sollicitudin dolor quis fermentum. Aliquam erat volutpat. Suspendisse fringilla tortor vestibulum, faucibus tellus sit amet, rutrum mi. Nunc interdum, lacus vel porta laoreet, diam lacus rhoncus nisi, nec suscipit ante justo eget leo. Phasellus sollicitudin nisi enim, ac pellentesque velit semper a. Nulla quis aliquam felis, non pretium turpis. Nam eleifend urna purus, ac molestie dolor aliquam a. Vestibulum in lacus et ex facilisis mollis. Sed nec dui sed tortor bibendum bibendum ut lobortis tellus. Vivamus mauris diam, tristique et orci facilisis, faucibus elementum metus. Aliquam vitae lobortis nisl. </P>
+	
+	
+	<p> texto <sup> superindice </sup> </p>	
+	<p> texto <sub> subindice </sub> </p>
+	
+	
+	<h1> soy cabecera 1 </h1>
+	<h2> soy cabecera 2 </h2>
+	<h3> soy cabecera 3 </h3>
+	<h4> soy cabecera 4 </h4>
+	<h5> soy cabecera 5 </h5>
+	<h6> soy cabecera 6 </h6>
+	
+	
+	<p>salto de línea... <br/> en medio de un párrafo</p>
+	
+	<p>linea delimitadora </p>
+	<hr/> 
+	<p>linea delimitadora </p>
+	
+	<p><abbr title="profesor" >Prof.</abbr> Perico de los palotes</p>
+	<p><acronym title="national aeronautics space administration" > NASA </acronym> </p>
+	
 
-</header>
-
-<!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
-
-## Step 5: Merge your pull request
-
-_Nice work, friend :heart:! People will be reading your blog in no time!_
-
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your pull request!
-
-### :keyboard: Activity: Merge your changes
-
-1. Merge your changes from `my-pages` into `main`. If you created the pull request in step 2, just open that PR and click on **Merge pull request**. If you did not create the pull request earlier, you can do it now by following the instructions in step 2.
-1. (optional) Delete the branch `my-pages`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+</BODY>
+</HTML>
